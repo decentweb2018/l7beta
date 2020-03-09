@@ -1,0 +1,108 @@
+{
+    "key": "group_576c7ecd95834",
+    "title": "Text Block",
+    "fields": [
+        {
+            "key": "field_5772d75cf3533",
+            "label": "Background",
+            "name": "background",
+            "type": "component_field",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "field_group_id": "group_5772d16d408df",
+            "min": 1,
+            "max": 1,
+            "layout": "row",
+            "button_label": "Add Row",
+            "collapsed": "",
+            "sub_fields": [],
+            "field_group_key": null,
+            "repeatable": false,
+            "appearances": []
+        },
+        {
+            "key": "field_5775253eacccf",
+            "label": "Animate Options",
+            "name": "animate_options",
+            "type": "component_field",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "field_group_id": "group_5775227ccbb65",
+            "min": 1,
+            "max": 1,
+            "layout": "row",
+            "button_label": "Add Row",
+            "collapsed": "",
+            "sub_fields": [],
+            "field_group_key": null,
+            "repeatable": false,
+            "appearances": []
+        },
+        {
+            "key": "field_576c7f57de02b",
+            "label": "Content",
+            "name": "content",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 1,
+            "delay": 0
+        },
+        {
+            "key": "field_5773d054c6866",
+            "label": "Links",
+            "name": "links",
+            "type": "component_field",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "field_group_id": "group_576c7d068ac8e",
+            "min": 0,
+            "max": 4,
+            "layout": "block",
+            "button_label": "Add Link",
+            "appearances": "",
+            "collapsed": "",
+            "sub_fields": [],
+            "field_group_key": null,
+            "repeatable": false
+        }
+    ],
+    "location": [],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "is_acf_component": true,
+    "modified": 1542199509
+}
